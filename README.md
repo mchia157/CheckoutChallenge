@@ -1,1 +1,1 @@
-# CheckoutChallenge
+# Checkout Challenge
